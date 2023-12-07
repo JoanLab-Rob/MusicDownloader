@@ -1,4 +1,4 @@
-import spotdl, pytube, os, subprocess
+import pytube, os, subprocess
 
 class MoveAround:
     
