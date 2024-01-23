@@ -1,31 +1,34 @@
 # MusicDownloader
-This project is a music downloader for youtube and spotify, you can download a unique song or multiple songs at the same time
+This project is a music downloader for Youtube and Spotify, you can download a unique song or multiple songs at the same time
 
 Requirements 
 
-  1- You must have installed last version of Python and the library Pytube. If you don't have it installed you can do:
+  1 - Python3
+
+    # Linux
+
+      It is usually installed, but if is not run: 
+      
+        sudo apt install python3
+
+    # Windows
+
+      Go to the next link to download python and install the .exe file
+      
+        https://www.python.org/ftp/python/3.12.1/python-3.12.1-amd64.exe
+  2- Once we have installed python, run the next command to install all the necesary libraries
 
     # UBUNTU 
 
-      sudo apt-get update && sudo apt-get update 
-
-      sudo apt install python3
-
-    # WINDOWS 
-
-      In windos we must go to the official web page of python and get to the downloads section https://www.python.org/downloads/ 
-
-      After we select the proper file, the download file (.exe) will begin and when its done, we can just doble click it to start the Python installation in our system.
-
-  2- Once we have installed python and update our system, we need to install the repositoris needed for this project: 
-
-    # UBUNTU 
-
-      pip install pytube 
+      pip install -r requirements.txt
 
 
     # WINDOWS
 
-      pip install pytube
+      pip install -r requirements.txt
+
+
+  3 - When the installation is finished you can run the DownloadMusic_App.py file to start downloading your favourite music
+
 
       
