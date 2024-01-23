@@ -1,0 +1,11 @@
+# Si al descargar canciones de spotify, sale un error de ffmpeg, ir a la terminal y introducir el siguiente comando
+    # spotdl --download-ffmpeg
+
+# If once you have an ffmpeg error while triying to download a song from spotify, please open your terminar and use the next command 
+    # spotdl --download-ffmpeg
+
+
+spotdl 
+pytube
+os
+subprocess
