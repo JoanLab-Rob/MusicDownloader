@@ -16,7 +16,7 @@ Requirements
       Go to the next link to download python and install the .exe file
       
         https://www.python.org/ftp/python/3.12.1/python-3.12.1-amd64.exe
-  2- Once we have installed python, run the next command to install all the necesary libraries
+  2- Once we have installed python, run the next command to install all the necessary libraries
 
     # UBUNTU 
 
