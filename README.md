@@ -1,7 +1,6 @@
 # MusicDownloader
 This project is a music downloader for Youtube and Spotify, you can download a unique song or multiple songs at the same time
 
-How tu run: 
 
 # How to run 
 
