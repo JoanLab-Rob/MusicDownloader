@@ -5,7 +5,7 @@
     # spotdl --download-ffmpeg
 
 
-spotdl 
-pytube
+spotdl == 4.2.2
+pytube == 15.0.0
 os
 subprocess
